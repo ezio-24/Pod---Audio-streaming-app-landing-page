@@ -10,7 +10,7 @@ Pod is a fully responsive audio streaming app landing page, responsive for all d
 
 ## Demo
 
-![Pod Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Pod Desktop Demo](<img src="https://github.com/ezio-24/Pod---Audio-streaming-app-landing-page/blob/main/website-demo-images/desktop.png" />)
 
 ## Prerequisites
 
@@ -40,4 +40,4 @@ If you want to contact me you can reach me on [Twitter](link).
 
 ## License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contain any license.
